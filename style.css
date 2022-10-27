@@ -1,3 +1,10 @@
-body{
-  background-color: aquamarine;
+body {
+  background-color: aliceblue;
+  color: aqua;
+}
+.menu{
+  color: aquamarine;
+  margin: auto;
+  padding: auto;
+  display: flex;
 }
